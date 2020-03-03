@@ -1,5 +1,4 @@
 <?php
-die('stop');
 header("Authorization:7a49eacf8e1e11f4ec71937b8cf716fd");
 $token="7a49eacf8e1e11f4ec71937b8cf716fd";
 $url = "https://www.zohoapis.com/crm/v2/Leads";
